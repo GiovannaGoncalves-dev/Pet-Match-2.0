@@ -1,0 +1,11 @@
+{
+  "files.encoding": "utf8",
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "java.project.sourcePaths": [
+    "src/main/java"
+  ],
+  "java.project.referencedLibraries": [
+    "src/main/webapp/WEB-INF/lib/**/*.jar"
+  ]
+}

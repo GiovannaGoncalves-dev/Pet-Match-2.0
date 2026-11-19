@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vscjava.vscode-java-pack",
+    "redhat.vscode-community-server-connector",
+    "cweijan.vscode-mysql-client2",
+    "esbenp.prettier-vscode"
+  ]
+}
